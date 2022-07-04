@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sallakontio
-- 👀 I’m interested in neuroscience, bioinformatics, health technology and biotech
-- 🌱 I’m currently learning R, Python and SQL
+- 👀 I’m interested in health technology and software development
+- 🌱 I’m currently learning JavaScript
 
 <!---
 sallakontio/sallakontio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
