@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sallakontio
-- 👀 I’m interested in health technology and software development
+- 👀 I’m interested in health technology, cloud services, and software development
 - 🌱 I’m currently learning JavaScript
 
 <!---
