@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sallakontio
 - 👀 I’m interested in health technology, cloud services, and software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & AWS
 
 <!---
 sallakontio/sallakontio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
